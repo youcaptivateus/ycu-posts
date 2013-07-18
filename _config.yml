@@ -1,5 +1,5 @@
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://youcaptivate.us/'
   relativeLinks: 'http://youcaptivate.us/links.jsonp'
   media: 'media'
