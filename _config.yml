@@ -1,10 +1,10 @@
 prose:
-  rooturl: ''
+  rooturl: 'posts'
   siteurl: 'http://youcaptivate.us/'
   relativeLinks: 'http://youcaptivate.us/links.jsonp'
   media: 'media'
   metadata:
-    '':
+    posts:
       - name: "category"
         field:
           element: "hidden"
@@ -33,7 +33,7 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-    ''/static:
+    posts/static:
       - name: "layout"
         field:
           element: "hidden"
