@@ -4,7 +4,7 @@ prose:
   relativeLinks: 'http://youcaptivate.us/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
+    '':
       - name: "category"
         field:
           element: "hidden"
@@ -33,7 +33,7 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-    _posts/static:
+    ''/static:
       - name: "layout"
         field:
           element: "hidden"
